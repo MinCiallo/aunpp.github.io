@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "updateLog": "1. 修复了某些情况下配置文件替换失败的问题\n2. 优化了按钮界面显示\n3. 新增了自动清理临时文件功能",
   "downloadUrl": "https://raw.githubusercontent.com/MinCiallo/aunpp.github.io/main/%E6%A0%B8%E7%94%B5%E6%9C%8D%E7%A7%81%E6%9C%8D%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7%E7%AE%B1.exe"
 }
